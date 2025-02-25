@@ -1,0 +1,2 @@
+# dontnetCoreDemoApplication
+DotnetCore demo application
